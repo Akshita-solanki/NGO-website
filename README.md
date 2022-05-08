@@ -1,6 +1,7 @@
 # NGO-website
 
-Link to the wesite: - https://akshita-solanki.github.io/NGO-website/ngo.html
+##Link to the wesite: - https://akshita-solanki.github.io/NGO-website/ngo.html
+
 
 
 
