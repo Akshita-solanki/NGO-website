@@ -1,6 +1,13 @@
 # NGO-website
 
+Link to the wesite: - https://akshita-solanki.github.io/NGO-website/ngo.html
+
+
+
+
 ![ngo](https://user-images.githubusercontent.com/80886593/167295557-46ae2566-8ca8-4520-9c51-95edba726c1c.png)
+
+
 
 
 This is a simple website made only using HTML and CSS
