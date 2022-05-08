@@ -619,6 +619,7 @@ section start
   margin: auto;
   width: 50%;
   font-size: 1.5vw;
+  color: #F7F5F2;
 }
 
 .abt-h3 {
@@ -687,18 +688,7 @@ i.fa {
   font-size: 5vw;
 }
 
-/* @media (max-width: 700px) {
-  .btn {
-    width: 70px;
-    height: 70px;
-  }
 
-  i.fa {
-    font-size: 35px;
-  }
-
-
-} */
 
 #fb {
   color: #006fff;
